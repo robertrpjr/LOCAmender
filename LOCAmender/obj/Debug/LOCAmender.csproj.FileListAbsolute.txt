@@ -1,0 +1,9 @@
+c:\users\rperry\documents\visual studio 2013\Projects\LOCAmender\LOCAmender\bin\Debug\LOCAmender.exe.config
+c:\users\rperry\documents\visual studio 2013\Projects\LOCAmender\LOCAmender\bin\Debug\LOCAmender.exe
+c:\users\rperry\documents\visual studio 2013\Projects\LOCAmender\LOCAmender\bin\Debug\LOCAmender.pdb
+c:\users\rperry\documents\visual studio 2013\Projects\LOCAmender\LOCAmender\obj\Debug\LOCAmender.Form1.resources
+c:\users\rperry\documents\visual studio 2013\Projects\LOCAmender\LOCAmender\obj\Debug\LOCAmender.Properties.Resources.resources
+c:\users\rperry\documents\visual studio 2013\Projects\LOCAmender\LOCAmender\obj\Debug\LOCAmender.csproj.GenerateResource.Cache
+c:\users\rperry\documents\visual studio 2013\Projects\LOCAmender\LOCAmender\obj\Debug\LOCAmender.exe
+c:\users\rperry\documents\visual studio 2013\Projects\LOCAmender\LOCAmender\obj\Debug\LOCAmender.pdb
+c:\users\rperry\documents\visual studio 2013\Projects\LOCAmender\LOCAmender\obj\Debug\LOCAmender.csprojResolveAssemblyReference.cache
